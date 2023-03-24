@@ -1,0 +1,6 @@
+** WAP to show difference between structure and union? 
+
+-structure is a separate memory location is assigned and union is a single memory is allotted to all.
+-structure are used to store multiple values and union stores on value at a time.
+- The size of the structure is the sum of all entities and the size of the union is the size of the largest
+   entity.
